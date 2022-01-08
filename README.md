@@ -3,7 +3,7 @@ introduce myself
 =================
    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cats0713&theme=dracula&show_icons=true&icon_color=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cats0713&theme=apprentice&show_icons=true&icon_color=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cats0713&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
