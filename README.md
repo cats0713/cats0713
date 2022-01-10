@@ -23,7 +23,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cats0713&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cats0713&layout=compact&theme=apprentice)](https://github.com/cats0713)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cats0713&theme=apprentice&show_icons=true&icon_color=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
