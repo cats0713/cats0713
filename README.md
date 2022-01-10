@@ -16,9 +16,10 @@
 <br>
 <div align="center">
    
-[![Tech Blog Badge](http://img.shields.io/badge/-git%20hub-black?style=flat-square&logo=github&link=https://github.com/cats0713)](https://github.com/cats0713) 
+[![git hub Badge](http://img.shields.io/badge/-git%20hub-black?style=flat-square&logo=github&link=https://github.com/cats0713)](https://github.com/cats0713)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cats0713@gmail.com)](mailto:cats0713@gmail.com)
-  
+[![naver Badge](https://img.shields.io/badge/-naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:cats0713@naver.com)](mailto:cats0713@naver.com)
+   
 </div>
 <br>
 <br>
