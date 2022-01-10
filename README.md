@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 </p>
 
-<h3 align="center"><b>about me</b></h3>
+<h3 align="center"><b>me📭</b></h3>
 <br>
 <div align="center">
    
