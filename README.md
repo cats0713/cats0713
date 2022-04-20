@@ -13,6 +13,7 @@
    <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a> &nbsp
    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a> &nbsp
    <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp
 
 
 </p>
